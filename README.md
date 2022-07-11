@@ -1,4 +1,5 @@
 # Real-Time-Moving-Object-Tracking-with-Computer-Vision
+This Object Tracking System was developed as the Minor Project For Dayananda Sagar University.<br />
 This system tracks moving object from the video sample.<br />
 This is done by various tracker for comparative analysis.<br />
 
